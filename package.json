@@ -1,0 +1,11 @@
+{
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.5",
+    "ethereumjs-util": "^5.2.0",
+    "zeppelin-solidity": "^1.12.0"
+  }
+}
